@@ -24,10 +24,4 @@ Lenguaje elegido: c++.
 
 [Link de descarga.](https://github.com/alfredojl/Practica2/blob/master/source.cpp)
 
-```
-sudo -u postgres psql
-
-CREATE DATABASE dvdrental;
-
-\q
-```
+---
