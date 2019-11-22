@@ -31,3 +31,4 @@ Lenguaje elegido: c++.
 CREATE DATABASE dvdrental;
 \q
 ```
+"Restauración de la base de datos."
