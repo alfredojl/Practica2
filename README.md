@@ -23,12 +23,3 @@ Lenguaje elegido: c++.
 ### Código fuente del programa _(en lenguaje C++)._
 
 [Link de descarga.](https://github.com/alfredojl/Practica2/blob/master/source.cpp)
-
----
-`sudo -u postgres psql`
-
-```
-CREATE DATABASE dvdrental;
-\q
-```
-`Restauración de la base de datos.`
