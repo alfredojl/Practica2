@@ -29,6 +29,5 @@ Lenguaje elegido: c++.
 
 ```
 CREATE DATABASE dvdrental;
-
 \q
 ```
